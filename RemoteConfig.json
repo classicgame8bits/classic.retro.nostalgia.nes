@@ -1,8 +1,8 @@
 {
   "packageName": "classic.retro.nostalgia.nes",
-  "forceUpdate": false,
+  "forceUpdate": true,
   "forceUpdateContent": "NES Games are under maintenance!\nPlease come back in 1 HOUR or PLAY\nother version on store! Many thanks!",
-  "forceUpdateUrl": "market://details?id=nes.retro.nostalgia",
+  "forceUpdateUrl": "market://details?id=street.fighter.classic",
   "checkClone": false,
   "reviewVersion": -1,
   "showNESGamesTimeDelay": 0,
