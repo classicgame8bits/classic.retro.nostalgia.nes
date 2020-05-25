@@ -1,8 +1,8 @@
 {
   "packageName": "classic.retro.nostalgia.nes",
-  "forceUpdate": false,
+  "forceUpdate": true,
   "forceUpdateContent": "GAME is removed on store!\nSupport us and PLAY MORE GAMES\nin new version!",
-  "forceUpdateUrl": "market://details?id=nes.retro.nostalgia",
+  "forceUpdateUrl": "market://details?id=snow.bros.classic",
   "checkClone": false,
   "reviewVersion": -1,
   "showNESGamesTimeDelay": 0,
