@@ -1,6 +1,6 @@
 {
   "packageName": "classic.retro.nostalgia.nes",
-  "forceUpdate": true,
+  "forceUpdate": false,
   "forceUpdateContent": "GAME is removed on store!\nSupport us and PLAY MORE GAMES\nin new version!",
   "forceUpdateUrl": "market://details?id=tank.classic.battle.city",
   "checkClone": false,
